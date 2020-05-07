@@ -1,0 +1,98 @@
+body {
+    background-color: lightgrey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    cursor: pointer;
+    font-weight: bold;
+    color: limegreen;
+}
+
+span {
+    color: #00ffff;
+    font-weight: bolder;
+}
+
+.boxes {
+    display: block;
+    position: relative;
+    margin: 1em;
+    padding: 1em;
+    border: 2px solid #303F9F;
+    border-radius: 2em;
+    width: 30em;
+}
+
+#box1 {
+    background-color: khaki;
+}
+
+#box2 {
+    /* position: absolute;
+    top: 3px;
+    left: 536px; */
+    background-color: hotpink;
+}
+
+#box3 {
+    background-color: indianred;
+}
+
+#box4 {
+    background-color: firebrick;
+}
+
+.image {
+    position: absolute;
+    left: 115px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: #abc123;
+}
+
+h1 {
+    color: greenyellow;
+}
+
+.original {
+    color: lawngreen;
+}
+
+.additional {
+    color: lightgreen;
+}
+
+#show1 {
+    color: hotpink;
+}
+
+#show2 {
+    color: yellow;
+}
+
+ul {
+    color: tomato;
+}
+
+.star {
+    color: wheat;
+}
+
+#wars {
+    color: aliceblue;
+}
+
+.list {
+    border: 1px solid black;
+}
